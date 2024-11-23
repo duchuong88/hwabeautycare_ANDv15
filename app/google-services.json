@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "595463945728",
+    "firebase_url": "https://hwa-beauty-care-default-rtdb.firebaseio.com",
+    "project_id": "hwa-beauty-care",
+    "storage_bucket": "hwa-beauty-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595463945728:android:6fe5f78b833c609ad762e5",
+        "android_client_info": {
+          "package_name": "vn.hwabeautyezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--LQsAkpFADA_rrsz_Dytd8QIffqztms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595463945728:android:d2101047e3154a7ed762e5",
+        "android_client_info": {
+          "package_name": "vn.hwabeautyezs1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--LQsAkpFADA_rrsz_Dytd8QIffqztms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
